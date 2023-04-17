@@ -29,6 +29,16 @@ Set up a MongoDB database and connection.
 Update the configuration file with your database connection details.
 Start the app using npm start.
 
+## Database Sample Data
+
+The data used during development is located in the ```server``` folder and named ```subjects.json```.
+
+To import into mongodb using ```mongoimport```, run
+
+```bash
+mongoimport --db learning-app --collection subjects --jsonArray --file subjects.json
+```
+
 ## Expo Installation
 
 Install dependencies using below.
@@ -54,5 +64,14 @@ The app includes the following UI components for interacting with subjects and t
 - **Topic List:** Displays a list of topics related to a selected subject with their titles.
 - **Topic Information:** Displays detailed information about a selected topic, including title, video, and description.
 
-License
+## Screenshots
+
+Screenshots of developed app are below.
+
+<img src="screenshots/subjects.png" width="400" alt="Topic" />
+<img src="screenshots/topics.png" width="400" alt="Topics" />
+<img src="screenshots/topic-information.png" width="400" alt="Topic Information" />
+
+## License
+
 The Learning App is open-source software released under the MIT License.
