@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Arts",
+    "topics": [
+      {
+        "title": "Drawing",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the basics of drawing, including lines, shapes, and shading."
+      },
+      {
+        "title": "Painting Techniques",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover different painting techniques and styles, including watercolor, acrylic, and oil."
+      },
+      {
+        "title": "Sculpture",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the principles of sculpture, including materials, tools, and techniques."
+      },
+      {
+        "title": "Photography",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the basics of photography, including composition, exposure, and lighting."
+      },
+      {
+        "title": "Graphic Design",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the principles of graphic design, including typography, color theory, and layout."
+      },
+      {
+        "title": "Fashion Design",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover the basics of fashion design, including sketching, fabric selection, and construction."
+      },
+      {
+        "title": "Digital Art",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn how to create digital art using tools like Photoshop, Illustrator, and Procreate."
+      },
+      {
+        "title": "Art History",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the history of art, from ancient times to the present day."
+      }
+    ]
+  },
+  {
+    "name": "Music",
+    "topics": [
+      {
+        "title": "Music Theory",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the fundamentals of music theory, including notes, scales, and chords."
+      },
+      {
+        "title": "Introduction to Piano",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the basics of playing piano, including hand position, fingering, and reading sheet music."
+      },
+      {
+        "title": "Guitar",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the basics of playing guitar, including chords, strumming patterns, and fingerpicking."
+      },
+      {
+        "title": "Music History",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the history of music, from ancient times to the present day."
+      },
+      {
+        "title": "Singing",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover the basics of singing, including breathing, tone production, and vocal range."
+      },
+      {
+        "title": "Music Production",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn how to produce music using software like Logic Pro, Ableton Live, or FL Studio."
+      },
+      {
+        "title": "Jazz Improvisation",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the art of improvisation in jazz music, including scales, chord progressions, and soloing."
+      },
+      {
+        "title": "Music Composition",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn how to compose music, including melody writing, harmony, and form."
+      }
+    ]
+  },
+  {
+    "name": "Science",
+    "topics": [
+      {
+        "title": "Biology",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover the basics of biology, including cells, genetics, and evolution."
+      },
+      {
+        "title": "Chemistry",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the fundamentals of chemistry, including atoms, molecules, and chemical reactions."
+      },
+      {
+        "title": "Physics",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the basics of physics, including motion, energy, and forces."
+      },
+      {
+        "title": "Earth Science",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the Earth's systems, including the atmosphere, hydrosphere, and geosphere."
+      },
+      {
+        "title": "Astronomy",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the universe, including the solar system, galaxies, and black holes."
+      },
+      {
+        "title": "Ecology",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover the science of ecology, including ecosystems, biodiversity, and conservation."
+      },
+      {
+        "title": "Environmental Science",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the relationship between humans and the environment, including climate change, pollution, and sustainability."
+      },
+      {
+        "title": "Neuroscience",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the brain and nervous system, including neuroanatomy, neurochemistry, and neurophysiology."
+      }
+    ]
+  },
+  {
+    "name": "Mathematics",
+    "topics": [
+      {
+        "title": "Arithmetic",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover the basics of arithmetic, including addition, subtraction, multiplication, and division."
+      },
+      {
+        "title": "Algebra",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the fundamentals of algebra, including variables, equations, and graphs."
+      },
+      {
+        "title": "Geometry",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the basics of geometry, including points, lines, angles, and shapes."
+      },
+      {
+        "title": "Trigonometry",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the principles of trigonometry, including sine, cosine, and tangent."
+      },
+      {
+        "title": "Calculus",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the principles of calculus, including limits, derivatives, and integrals."
+      },
+      {
+        "title": "Probability",
+        "video": "https://www.youtube.com/watch?v=HZGCoVF3YvM",
+        "description": "Learn the fundamentals of probability and statistics, including probability distributions, hypothesis testing, and regression analysis."
+      },
+      {
+        "title": "Number Theory",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover the properties of integers and prime numbers, including divisibility, modular arithmetic, and the Riemann hypothesis."
+      },
+      {
+        "title": "Discrete Mathematics",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about mathematical structures that are typically discrete rather than continuous, including graphs, algorithms, and combinatorics."
+      }
+    ]
+  },
+  {
+    "name": "Physics",
+    "topics": [
+      {
+        "title": "Classical Mechanics",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the fundamental principles of classical mechanics, including Newton's laws of motion, conservation of energy, and momentum."
+      },
+      {
+        "title": "Thermodynamics",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the principles of thermodynamics, including heat, temperature, entropy, and phase transitions."
+      },
+      {
+        "title": "Electromagnetism",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the principles of electromagnetism, including electric and magnetic fields, Coulomb's law, and electromagnetic waves."
+      },
+      {
+        "title": "Optics",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover the properties of light and its interactions with matter, including reflection, refraction, diffraction, and interference."
+      },
+      {
+        "title": "Modern Physics",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the breakthroughs of 20th century physics, including relativity, quantum mechanics, and particle physics."
+      }
+    ]
+  },
+  {
+    "name": "Biology",
+    "topics": [
+      {
+        "title": "Cell Biology",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the structure and function of cells, including cell membranes, organelles, and cellular processes such as mitosis and meiosis."
+      },
+      {
+        "title": "Genetics",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Discover the principles of genetics, including DNA replication, transcription, translation, and inheritance patterns."
+      },
+      {
+        "title": "Ecology",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the interactions between organisms and their environment, including population dynamics, communities, and ecosystems."
+      },
+      {
+        "title": "Evolution",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the principles of evolution, including natural selection, adaptation, speciation, and phylogenetics."
+      },
+      {
+        "title": "Anatomy and Physiology",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the structure and function of the human body, including the skeletal, muscular, cardiovascular, respiratory, digestive, and nervous systems."
+      }
+    ]
+  },
+  {
+    "name": "Language",
+    "topics": [
+      {
+        "title": "Introduction to English",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the basics of English grammar, pronunciation, and vocabulary, including greetings, introductions, and common phrases."
+      },
+      {
+        "title": "English Vocabulary",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Expand your English vocabulary with lessons on topics such as food, clothing, family, and travel."
+      },
+      {
+        "title": "English Grammar",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the grammar of the English language, including verb tenses, noun types, and sentence structure."
+      },
+      {
+        "title": "English Conversation",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Practice your English conversation skills with lessons on topics such as small talk, business meetings, and social situations."
+      },
+      {
+        "title": "Intermediate English",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Take your English skills to the next level with lessons on more advanced grammar and vocabulary, as well as reading and writing practice."
+      },
+      {
+        "title": "Introduction to Spanish",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn the basics of Spanish grammar, pronunciation, and vocabulary, including greetings, introductions, and common phrases."
+      },
+      {
+        "title": "Spanish Vocabulary",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Expand your Spanish vocabulary with lessons on topics such as food, clothing, family, and travel."
+      },
+      {
+        "title": "Spanish Grammar",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Explore the grammar of the Spanish language, including verb conjugation, noun gender, and sentence structure."
+      },
+      {
+        "title": "Spanish Culture",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Learn about the culture of Spanish-speaking countries, including their history, customs, and traditions."
+      },
+      {
+        "title": "Intermediate Spanish",
+        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "description": "Take your Spanish skills to the next level with lessons on more advanced grammar and vocabulary, as well as conversation and listening comprehension practice."
+      }
+    ]
+  }
+]
