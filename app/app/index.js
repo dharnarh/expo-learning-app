@@ -16,7 +16,7 @@ export default function Home() {
     <View style={styles.container}>
       <Stack.Screen options={{ title: 'List of Subjects' }} />
       <FlatList
-        data={[...subjects, ...subjects]}
+        data={subjects}
         renderItem={({ item }) => (
           <Link style={styles.lists} href={{ pathname: '/topics', params: { subjectId: item._id, subjectName: item.name } }}>
               <Text>{item.name}</Text>
